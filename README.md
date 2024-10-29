@@ -1,6 +1,13 @@
 # Customer Churn Prediction of bank
 
+<b>
+<a href="https://churnlens.streamlit.app/">LINK</a>
+</b>
+
 **Output**
+<a href="https://churnlens.streamlit.app/">
+![image](https://github.com/user-attachments/assets/011b37c9-9ff5-48b2-85e9-1bf6e5a84ac2)
+</a>
 
 **How to Setup**
 1. Create a virtual environment  using `virtualenv venv`
